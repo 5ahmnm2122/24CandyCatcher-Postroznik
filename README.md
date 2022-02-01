@@ -4,8 +4,8 @@ Project Description: three scenes intro scene:
 name input field, 
 play button main scene: 
 catching diamonds, good and bad (Rocks=bad), 
-timer 30 seconds end scene: show input name, score and won/lose text,
-timer out of 30s text
+timer 25 seconds end scene: show input name, score and won/lose text,
+timer out of 25s text
 
 Development Platform:
 
