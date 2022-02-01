@@ -3,7 +3,7 @@
 Project Description: three scenes intro scene: 
 name input field, 
 play button main scene: 
-catching candy, good and bad (monsters=bad), 
+catching diamonds, good and bad (Rocks=bad), 
 timer 30 seconds end scene: show input name, score and won/lose text,
 timer out of 30s text
 
